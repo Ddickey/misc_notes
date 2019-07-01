@@ -1,0 +1,10 @@
+
+
+Is there a way I can code an AI robot to help around the house. Like dig things for me or take care of the garden or guard the house ? 
+
+What would I need to do this
+
+The robot 
+Motors and then training the robot to make decision like dig in a straight line but don't hurt the sprinklers it will 
+
+ß
